@@ -1,0 +1,12 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - SavkinILYA
+description: My own Ansible collection with custom module
+license:
+  - MIT
+tags:
+  - tools
+repository: https://github.com/SavkinILYA/my_own_collection
